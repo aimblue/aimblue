@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aimblue
-- 👀 I’m interested in mobile devalepmnt
+- 👀 I’m interested in mobile devloepment
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter team
 - 📫 How to reach me => aimene.chikhi@gmail.com
